@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+playwright-report/
+test-results/
+*.pyc
+*.tsbuildinfo
+.DS_Store
+recoverly-20261019

@@ -1,0 +1,6 @@
+[
+  {"id":"INV-1048","vendor":"Northstar Foods","date":"2026-10-03","item":"Chicken breast, 40 lb","contractUnitCents":380,"billedUnitCents":418,"quantity":40,"status":"new"},
+  {"id":"INV-1059","vendor":"Northstar Foods","date":"2026-10-10","item":"Chicken breast, 40 lb","contractUnitCents":380,"billedUnitCents":421,"quantity":80,"status":"new"},
+  {"id":"INV-1062","vendor":"Northstar Foods","date":"2026-10-11","item":"Canola oil, 35 lb","contractUnitCents":1120,"billedUnitCents":1120,"quantity":4,"status":"matched"},
+  {"id":"INV-1071","vendor":"Harbor Linen","date":"2026-10-14","item":"Loss replacement fee","contractUnitCents":0,"billedUnitCents":1800,"quantity":3,"status":"new"}
+]
